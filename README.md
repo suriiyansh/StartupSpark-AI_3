@@ -25,11 +25,14 @@ You type a one-line startup idea — something like *"AI Laundry Service"* — a
 
 ## Live Demo
 
-🔗 **[startupspark-ai.netlify.app](#)** *(update once deployed)*
+🔗 **https://start-upspark.netlify.app/**
 
-## Screenshots
+## Screenshots ##
 
-*(Add a screenshot or short GIF of the results dashboard here once deployed — this is the single highest-impact addition for a LinkedIn post.)*
+<img width="1917" height="966" alt="Screenshot 2026-07-23 175743" src="https://github.com/user-attachments/assets/84ca24f5-f091-4c94-873c-cfca97ee8305" />
+<img width="1917" height="960" alt="Screenshot 2026-07-23 175732" src="https://github.com/user-attachments/assets/5ad9e34d-76a9-4d1f-bafe-1cdff50fc8ac" />
+
+
 
 ## Tech Stack
 
