@@ -42,3 +42,26 @@ You type a one-line startup idea — something like *"AI Laundry Service"* — a
 | Deployment | Netlify (frontend), Render (backend) |
 
 ## Project Structure
+
+StartupSpark-AI_3/
+├── backend/
+│ ├── routes/
+│ │ └── validateIdea.js # Groq API integration + validation logic
+│ ├── server.js # Express app entry point
+│ ├── .env.example
+│ └── package.json
+│
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ │ ├── IdeaForm.jsx
+│ │ │ ├── ResultsDashboard.jsx
+│ │ │ └── VerdictStamp.jsx
+│ │ ├── lib/
+│ │ │ └── api.js
+│ │ ├── App.jsx
+│ │ └── index.css
+│ ├── .env.example
+│ └── package.json
+│
+└── README.md
