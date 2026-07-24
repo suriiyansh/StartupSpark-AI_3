@@ -4,7 +4,12 @@ const cors = require('cors');
 const validateIdeaRouter = require('./routes/validateIdea');
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: [
+    'http://localhost:5173',
+    'https://start-upspark.netlify.app'
+  ]
+}));
 app.use(express.json());
 app.use('/api', validateIdeaRouter);
 
